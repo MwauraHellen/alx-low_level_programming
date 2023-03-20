@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints numberrs betwwen 0 to 9 and letters between a to f.
- * Retunr: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
